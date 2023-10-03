@@ -388,6 +388,9 @@ body {
 
 .projects__pic {
   border-radius: 10px;
+  width: 370px;
+  height: 278px;
+  object-fit: cover;
 }
 
 .projects__name {
